@@ -14,15 +14,15 @@
  
  🔭 I’m currently working on **Educational Kits Development**
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I’m currently learning **Docker, Supabase, AWS, ROS2**
 
-💬 Ask me about **Robotics, Embedded Systems, PCB, 3D Designing & Printing, Product Development <br>
+💬 Ask me about **Robotics, IoT, Embedded Systems, PCB, 3D Designing & Printing, Product Development <br>
 NextJs, Node.js, React, MongoDB,... or anything [here](https://github.com/bibekganesh4/bibekganesh4/issues)**
 
  </div>
  
 <div align="center"> 
-  <a href="bibekganesh4@gmail.com">
+  <a href="mailto:bibekganesh4@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://linkedin.com/in/bibekganesh" target="_blank">
