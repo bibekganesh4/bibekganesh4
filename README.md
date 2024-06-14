@@ -41,8 +41,9 @@ NextJs, Node.js, React, MongoDB,... or anything [here](https://github.com/bibekg
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-        <img src="https://skillicons.dev/icons?i=nodejs,nextjs,react,mui,figma,tailwind,git,javascript,typescript,express,mongodb,c,c++,mysql,python" />
-    <img src="https://skillicons.dev/icons?i=vscode,github,figma" />
+    <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,matlab,ros" />
+    <img src="https://skillicons.dev/icons?i=nodejs,nextjs,react,mui,figma,tailwind,git,javascript,typescript,express,mongodb,c,cpp,mysql,python" />
+    <img src="https://skillicons.dev/icons?i=vscode,github,figma,docker,aws,azure,stackoverflow,ubuntu" />
     <br>
 </div>
 
