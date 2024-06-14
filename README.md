@@ -5,6 +5,7 @@
 </h1>
 
 <h2 align="center">CTO & Co-founder at Nepatronix</h2>
+<br/>
 <h3 align="center">A passionate Tech Enthusiast from Nepal 🇳🇵</h3>
 
 <br/>
@@ -20,6 +21,7 @@
 NextJs, Node.js, React, MongoDB,... or anything [here](https://github.com/bibekganesh4/bibekganesh4/issues)**
 
  </div>
+
  
 <div align="center"> 
   <a href="mailto:bibekganesh4@gmail.com">
@@ -32,6 +34,7 @@ NextJs, Node.js, React, MongoDB,... or anything [here](https://github.com/bibekg
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
+<br/>
 
  <hr/>
  
