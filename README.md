@@ -36,6 +36,12 @@ NextJs, Node.js, React, MongoDB,... or anything [here](https://github.com/bibekg
 </div>
 <br/>
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=80&font=astro&duration=5500&lines=ROBOTICS+🚀+IOT+🚀+WEB-DEVELOPMENT+🚀" />
+</h1>
+
+<br/>
+
  <hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
