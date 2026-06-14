@@ -13,12 +13,12 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Educational Kits Development**
+ 🔭 I’m currently working on **Commercial IoT System**
  
- 🌱 I’m currently learning **Docker, Supabase, AWS, ROS2**
+ 🌱 I’m currently learning **IoT Brokers, Mobile APP, RMQTT**
 
 💬 Ask me about **Robotics, IoT, Embedded Systems, PCB, 3D Designing & Printing, Product Development <br>
-NextJs, Node.js, React, MongoDB,... or anything [here](https://github.com/bibekganesh4/bibekganesh4/issues)**
+IoT Brokers, Server, App development,... or anything [here](https://github.com/bibekganesh4/bibekganesh4/issues)**
 
  </div>
 
@@ -48,8 +48,8 @@ NextJs, Node.js, React, MongoDB,... or anything [here](https://github.com/bibekg
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,matlab,ros" />
-    <img src="https://skillicons.dev/icons?i=nodejs,nextjs,react,mui,tailwind,git,javascript,typescript,express,mongodb,c,cpp,mysql,python" />
-    <img src="https://skillicons.dev/icons?i=vscode,github,figma,docker,aws,azure,stackoverflow,ubuntu" />
+    <img src="https://skillicons.dev/icons?i=grafana,prometheus,kafka,redis,nodejs,nextjs,react,postgres,nginx,c,cpp,rust,python" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,vscode,github,figma,docker,aws,ubuntu,debian" />
     <br>
 </div>
 
