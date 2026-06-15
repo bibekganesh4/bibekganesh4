@@ -15,10 +15,10 @@
  
  🔭 I’m currently working on **Commercial IoT System**
  
- 🌱 I’m currently learning **IoT Brokers, Mobile APP, RMQTT**
+ 🌱 I’m currently learning **IoT Broker Development, Mobile APP, RMQTT**
 
 💬 Ask me about **Robotics, IoT, Embedded Systems, PCB, 3D Designing & Printing, Product Development <br>
-IoT Brokers, Server, App development,... or anything [here](https://github.com/bibekganesh4/bibekganesh4/issues)**
+App development,... or anything [here](https://github.com/bibekganesh4/bibekganesh4/issues)**
 
  </div>
 
@@ -37,7 +37,7 @@ IoT Brokers, Server, App development,... or anything [here](https://github.com/b
 <br/>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=80&font=astro&duration=5500&lines=ROBOTICS+🚀+IOT+🚀+WEB-DEVELOPMENT+🚀" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=80&font=astro&duration=5500&lines=ROBOTICS+🚀+IOT+🚀+APP-DEVELOPMENT+🚀" />
 </h1>
 
 <br/>
