@@ -15,7 +15,7 @@
  
  🔭 I’m currently working on **Commercial IoT System**
  
- 🌱 I’m currently learning **IoT Broker Development, Mobile APP, RMQTT**
+ 🌱 I’m currently learning **IoT Broker Development, Mobile APP, MQTT**
 
 💬 Ask me about **Robotics, IoT, Embedded Systems, PCB, 3D Designing & Printing, Product Development <br>
 App development,... or anything [here](https://github.com/bibekganesh4/bibekganesh4/issues)**
